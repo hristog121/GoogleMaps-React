@@ -40,6 +40,8 @@ To run the dev-server type the command bellow in the terminal while you are in t
 
 React
 
+React-bootstrap - for the Glypicons 
+
 Redux - For managing the state
 
 google-maps-react - Useful dependency that helps to work with Google maps in React
