@@ -29,6 +29,7 @@
     "history": "4.7.2",
     "moment": "2.18.1",
     "node-sass": "^4.11.0",
+    "node": "10.15.0",
     "normalize.css": "7.0.0",
     "numeral": "2.0.6",
     "prettier": "^1.15.3",
