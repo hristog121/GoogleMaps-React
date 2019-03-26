@@ -1,7 +1,5 @@
 # Add places to a list from a google map
 
-**Task for KUMPAN - Stockholm**
-
 This is a web application that allows users to add places to a list from a Google Map.
 
 **How to run it**
